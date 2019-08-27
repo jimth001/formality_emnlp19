@@ -1,4 +1,4 @@
-# formality（anonymized during double-blind review of EMNLP2019）
+# Harnessing Pre-Trained Neural Networks with Rules for Formality Style Transfer
 
 ## 1. model outputs
 
@@ -30,7 +30,7 @@ The code of our method is under "./gpt", "./utils" and "./preprocess".
 
 ### 3.1 training data<div id="contact"></div>
 
-The training data includes original GYAFC dataset and the outputs of a simple rule based system. To obtain our training data, you should first get the access to [GYAFC dataset](https://github.com/raosudha89/GYAFC-corpus). Once you have gained the access to GYAFC dataset, please forward the acknowledgment to the anonymous email address(anonymousfordoubleblindreview@gmail.com), then we will provide access to our training data and other materials for evaluation. Please keep anonymous in your email during double-blind review of EMNLP2019.
+The training data includes original GYAFC dataset and the outputs of a simple rule based system. To obtain our training data, you should first get the access to [GYAFC dataset](https://github.com/raosudha89/GYAFC-corpus). Once you have gained the access to GYAFC dataset, please forward the acknowledgment to wangyunli@buaa.edu.cn, then we will provide access to our training data and other materials for evaluation.
 
 ### 3.2 run
 
